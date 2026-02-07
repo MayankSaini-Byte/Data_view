@@ -76,7 +76,6 @@ school_data_science_bootcamp/
 ├── 01_data_cleaning.ipynb
 ├── 02_data_processing.ipynb
 ├── 03_data_visualization.ipynb
-├── 04_final_report.ipynb
 └── README.md
 ```
 
